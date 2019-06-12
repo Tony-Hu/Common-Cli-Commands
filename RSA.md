@@ -10,5 +10,5 @@ openssl genpkey -out private.pem -algorithm RSA -pkeyopt rsa_keygen_bits:2048
 ```shell script
 #!/bin/bash
 
-openssl rsa -in rsakey.pem -outform PEM -pubout -out public.pem
+openssl rsa -in private.pem -outform PEM -pubout -out public.pem
 ```
