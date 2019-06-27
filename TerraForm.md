@@ -34,3 +34,11 @@ terraform state rm \
   -backup="terraform-dev.tfstate.backup" \
   <tf resource name>
 ```
+
+## 4 Terraform Conditional Create
+```terraform
+resource "<resource_type>" "<resource name>" {
+  count = "{var.conditionVar == "<condition>" ? 1 : 0}"
+  ...
+}
+```
