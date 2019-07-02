@@ -1,4 +1,5 @@
 # AWS
+All `aws` console command can point to different region by using `--region <region>`. 
 ## 1. Sync AWS S3 bucket
 ```shell script
 #!/bin/bash
