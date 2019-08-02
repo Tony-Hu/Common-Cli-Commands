@@ -1,7 +1,7 @@
 # JavaScript
 ## 1. Check nested object
 ```javascript
-checkAll = (data, key)  => {
+checkAll = (data, key) => {
   return key.split(".").reduce((o, k) => {
     return (typeof o === 'undefined' || o === null) ? o : o[k];
   }, data)
