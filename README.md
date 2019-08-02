@@ -4,3 +4,4 @@
 2. [TerraForm](https://github.com/Tony-Hu/Cheat_Sheet/blob/master/TerraForm.md)
 3. [AWS](https://github.com/Tony-Hu/Cheat_Sheet/blob/master/AWS.md)
 4. [RSA](https://github.com/Tony-Hu/Cheat_Sheet/blob/master/RSA.md)
+5. [JavaScript](https://github.com/Tony-Hu/Cheat_Sheet/blob/master/JavaScript.md)
