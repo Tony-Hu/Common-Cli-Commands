@@ -1,7 +1,8 @@
 # Cheat Sheet
 
-1. [Docker](https://github.com/Tony-Hu/Cheat_Sheet/blob/master/Docker.md)
-2. [TerraForm](https://github.com/Tony-Hu/Cheat_Sheet/blob/master/TerraForm.md)
-3. [AWS](https://github.com/Tony-Hu/Cheat_Sheet/blob/master/AWS.md)
-4. [RSA](https://github.com/Tony-Hu/Cheat_Sheet/blob/master/RSA.md)
-5. [JavaScript](https://github.com/Tony-Hu/Cheat_Sheet/blob/master/JavaScript.md)
+1. [Docker](Docker.md)
+2. [TerraForm](TerraForm.md)
+3. [AWS](AWS.md)
+4. [RSA](RSA.md)
+5. [JavaScript](JavaScript.md)
+6. [Redis](Redis.md)
