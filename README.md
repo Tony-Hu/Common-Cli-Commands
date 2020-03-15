@@ -7,3 +7,4 @@
 5. [RSA](RSA.md)
 6. [JavaScript](JavaScript.md)
 7. [Redis](Redis.md)
+8. [Shell](Shell.md)
