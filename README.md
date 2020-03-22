@@ -1,4 +1,4 @@
-# Cheat Sheet
+# Common used Cli commands
 
 1. [Docker](Docker.md)
 2. [Minikube](Minikube.md)
