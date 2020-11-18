@@ -9,3 +9,4 @@
 7. [Redis](Redis.md)
 8. [Shell](Shell.md)
 9. [NodeJS](Node.md)
+10. [Regular Expression](Regex.md)
